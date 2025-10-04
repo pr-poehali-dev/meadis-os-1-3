@@ -138,7 +138,7 @@ const Index = () => {
                 <div className="space-y-3">
                   <div className="flex items-center gap-2 text-sm">
                     <Icon name="Check" className="text-primary" size={16} />
-                    <span>Размер: 24 MB</span>
+                    <span>Размер: 90 МБ</span>
                   </div>
                   <div className="flex items-center gap-2 text-sm">
                     <Icon name="Check" className="text-primary" size={16} />
