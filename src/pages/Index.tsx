@@ -200,7 +200,7 @@ const Index = () => {
                   <div className="space-y-2">
                     <div className="flex items-start gap-2">
                       <Icon name="Bug" className="text-destructive mt-1" size={16} />
-                      <p className="text-sm">Исправлены критические ошибки при работе с несколькими окнами</p>
+                      <p className="text-sm">Неизвестно</p>
                     </div>
                   </div>
                 </div>
