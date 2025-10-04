@@ -97,15 +97,6 @@ const Index = () => {
                     </div>
                   </div>
                   <div className="flex items-center gap-4 p-4 glass rounded-2xl">
-                    <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-secondary to-primary flex items-center justify-center">
-                      <Icon name="Palette" className="text-white" size={24} />
-                    </div>
-                    <div>
-                      <h3 className="font-display text-lg font-semibold">Кастомизация</h3>
-                      <p className="text-sm text-muted-foreground">Настраивайте интерфейс под себя</p>
-                    </div>
-                  </div>
-                  <div className="flex items-center gap-4 p-4 glass rounded-2xl">
                     <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-primary to-secondary flex items-center justify-center">
                       <Icon name="Zap" className="text-white" size={24} />
                     </div>
