@@ -152,7 +152,7 @@ const Index = () => {
                   </div>
                 </div>
                 <Button className="w-full bg-gradient-to-r from-primary to-secondary hover:opacity-90 text-white font-display text-lg py-6 rounded-xl">
-                  Скачать полную версию
+                  Скачать бета версию
                 </Button>
               </div>
             </Card>
