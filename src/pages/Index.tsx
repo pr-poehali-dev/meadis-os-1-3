@@ -229,7 +229,7 @@ const Index = () => {
                   <div className="space-y-2">
                     <div className="flex items-start gap-2">
                       <Icon name="Plus" className="text-primary mt-1" size={16} />
-                      <p className="text-sm">Встроенный браузер приложений</p>
+                      <p className="text-sm">Встроенный UEFI</p>
                     </div>
                     <div className="flex items-start gap-2">
                       <Icon name="Plus" className="text-primary mt-1" size={16} />
