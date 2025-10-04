@@ -59,8 +59,7 @@ const Index = () => {
                 <span className="text-white">Система в PowerPoint</span>
               </h2>
               <p className="text-xl text-muted-foreground max-w-xl">
-                Мощная операционная система, созданная полностью в PowerPoint. 
-                Откройте новые возможности презентаций с интерактивным интерфейсом и богатым функционалом.
+                Новая система под любые задачи, система славиться своим интерфейсом и функционалом!
               </p>
               <div className="flex flex-wrap gap-4">
                 <Button
