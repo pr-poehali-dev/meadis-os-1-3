@@ -15,9 +15,11 @@ const Index = () => {
         <div className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-primary to-secondary flex items-center justify-center">
-                <Icon name="Grid2x2" className="text-white" size={24} />
-              </div>
+              <img 
+                src="https://cdn.poehali.dev/files/f0385fec-5067-4222-9658-1a747b4f1ec3.png" 
+                alt="Meadis OS Logo" 
+                className="w-10 h-10"
+              />
               <h1 className="font-display text-2xl font-bold text-gradient">
                 MEADIS OS 1.3
               </h1>
