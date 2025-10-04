@@ -133,7 +133,7 @@ const Index = () => {
             </p>
           </div>
 
-          <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+          <div className="max-w-2xl mx-auto">
             <Card className="glass-strong border-white/10 p-8 hover:border-primary/50 transition-all duration-300 group">
               <div className="space-y-6">
                 <div className="w-16 h-16 rounded-2xl bg-gradient-to-br from-primary to-secondary flex items-center justify-center group-hover:scale-110 transition-transform">
@@ -161,40 +161,6 @@ const Index = () => {
                 </div>
                 <Button className="w-full bg-gradient-to-r from-primary to-secondary hover:opacity-90 text-white font-display text-lg py-6 rounded-xl">
                   Скачать полную версию
-                </Button>
-              </div>
-            </Card>
-
-            <Card className="glass-strong border-white/10 p-8 hover:border-secondary/50 transition-all duration-300 group">
-              <div className="space-y-6">
-                <div className="w-16 h-16 rounded-2xl bg-gradient-to-br from-secondary to-primary flex items-center justify-center group-hover:scale-110 transition-transform">
-                  <Icon name="Sparkles" className="text-white" size={32} />
-                </div>
-                <div>
-                  <h3 className="font-display text-2xl font-bold mb-2">Lite версия</h3>
-                  <p className="text-muted-foreground">
-                    Компактная версия с базовым функционалом
-                  </p>
-                </div>
-                <div className="space-y-3">
-                  <div className="flex items-center gap-2 text-sm">
-                    <Icon name="Check" className="text-secondary" size={16} />
-                    <span>Размер: 12 MB</span>
-                  </div>
-                  <div className="flex items-center gap-2 text-sm">
-                    <Icon name="Check" className="text-secondary" size={16} />
-                    <span>PowerPoint 2013+</span>
-                  </div>
-                  <div className="flex items-center gap-2 text-sm">
-                    <Icon name="Check" className="text-secondary" size={16} />
-                    <span>Все платформы</span>
-                  </div>
-                </div>
-                <Button 
-                  variant="outline"
-                  className="w-full glass border-white/20 hover:bg-white/10 font-display text-lg py-6 rounded-xl"
-                >
-                  Скачать Lite версию
                 </Button>
               </div>
             </Card>
