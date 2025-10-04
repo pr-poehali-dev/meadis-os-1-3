@@ -132,7 +132,7 @@ const Index = () => {
                   <Icon name="Download" className="text-white" size={32} />
                 </div>
                 <div>
-                  <h3 className="font-display text-2xl font-bold mb-2">Полная версия</h3>
+                  <h3 className="font-display text-2xl font-bold mb-2">Бета версия</h3>
                   <p className="text-muted-foreground">
                     Включает все функции и приложения системы
                   </p>
