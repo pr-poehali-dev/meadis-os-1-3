@@ -233,7 +233,7 @@ const Index = () => {
                     </div>
                     <div className="flex items-start gap-2">
                       <Icon name="Plus" className="text-primary mt-1" size={16} />
-                      <p className="text-sm">Поддержка тем оформления</p>
+                      <p className="text-sm">Новый патч безопасности</p>
                     </div>
                     <div className="flex items-start gap-2">
                       <Icon name="Wrench" className="text-secondary mt-1" size={16} />
