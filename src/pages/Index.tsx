@@ -92,7 +92,7 @@ const Index = () => {
                       <Icon name="Layers" className="text-white" size={24} />
                     </div>
                     <div>
-                      <h3 className="font-display text-lg font-semibold">Многозадачность</h3>
+                      <h3 className="font-display text-lg font-semibold">Дизайн системы</h3>
                       <p className="text-sm text-muted-foreground">Работайте с несколькими окнами</p>
                     </div>
                   </div>
