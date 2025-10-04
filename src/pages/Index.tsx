@@ -151,8 +151,13 @@ const Index = () => {
                     <span>Windows, macOS</span>
                   </div>
                 </div>
-                <Button className="w-full bg-gradient-to-r from-primary to-secondary hover:opacity-90 text-white font-display text-lg py-6 rounded-xl">
-                  Скачать бета версию
+                <Button 
+                  asChild
+                  className="w-full bg-gradient-to-r from-primary to-secondary hover:opacity-90 text-white font-display text-lg py-6 rounded-xl"
+                >
+                  <a href="https://drive.google.com/file/d/1RjwcO3HLSkI-399dRgcqk7wk9a6WXBZw/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                    Скачать бета версию
+                  </a>
                 </Button>
               </div>
             </Card>
