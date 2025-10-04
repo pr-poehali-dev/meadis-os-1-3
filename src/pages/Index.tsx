@@ -93,7 +93,7 @@ const Index = () => {
                     </div>
                     <div>
                       <h3 className="font-display text-lg font-semibold">Дизайн системы</h3>
-                      <p className="text-sm text-muted-foreground">Работайте с несколькими окнами</p>
+                      <p className="text-sm text-muted-foreground">Используется дизайн с прозрачными окнами</p>
                     </div>
                   </div>
                   <div className="flex items-center gap-4 p-4 glass rounded-2xl">
